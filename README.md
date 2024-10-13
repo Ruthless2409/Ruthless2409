@@ -26,7 +26,7 @@
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthless2409&show_icons=true&locale=en&layout=compact" alt="ruthless2409" />
     </td>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthless2409&show_icons=true&locale=en" alt="ruthless2409" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthless2409&show_icons=true&locale=en&cache_seconds=86400" alt="ruthless2409" />
     </td>
   </tr>
 </table>
