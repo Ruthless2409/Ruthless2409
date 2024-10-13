@@ -20,18 +20,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Ruthless2409"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Ruthless2409" /></a></p><br><br>
 
-<table style="border: 0; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; border: 0;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthless2409&show_icons=true&locale=en&layout=compact" alt="ruthless2409" style="width: 100%;" />
-    </td>
-    <td style="width: 50%; border: 0;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=ruthless2409&show_icons=true&locale=en&cache_seconds=86400" alt="ruthless2409" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: left; align-items: flex-start; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruthless2409&show_icons=true&locale=en&layout=compact" alt="ruthless2409" style="width: 350px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ruthless2409&show_icons=true&locale=en&cache_seconds=86400" alt="ruthless2409" style="width: 400px;" />
+</div>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ruthless2409&" alt="ruthless2409" /></p>
+
+<p><img align="center"; justify-content: left; src="https://github-readme-streak-stats.herokuapp.com/?user=ruthless2409&" alt="ruthless2409" /></p>
 
