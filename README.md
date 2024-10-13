@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vatsa</h1>
 <h3 align="center">A passionate developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/3d-portrait-people_23-2150793856.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruthless2409&label=Profile%20views&color=0e75b6&style=flat" alt="ruthless2409" /> </p>
 
 - 🌱 I’m currently learning **React and JavaScript**
